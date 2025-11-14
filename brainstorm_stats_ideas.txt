@@ -1,0 +1,110 @@
+ROBOTIC WHEELCHAIRS - BRAINSTORMING STATS & IDEAS
+===================================================
+
+WHY WE NEED ROBOTIC WHEELCHAIRS
+--------------------------------
+
+Key Statistics:
+- By 2030, 1 in 6 people will be over 60
+- Of those over 60, 1 in 4 will need mobility assistance
+- $41 million ARPA-H investment in RAMMP program
+- Millions of Americans could benefit from robotic mobility independence
+
+Ideas & Talking Points:
+- National commitment to transforming independence through robotics
+- Reducing reliance on caregivers = cost savings + dignity
+- Open-source platform = accessible, scalable solutions
+- Bridging cutting-edge research with real-world assistive devices
+- Semi-autonomous navigation for daily tasks (safety + independence)
+- AI + robotics + digital twin simulation = next-gen mobility
+- Building on decades of research at HERL (University of Pittsburgh)
+
+VIDEO IDEAS FOR CONGRESS & FUNDERS
+===================================
+
+SHORT VIDEOS (30-60 seconds):
+------------------------------
+1. **The Aging Crisis** - Quick stat visualization showing demographic shift by 2030
+   - Hook: "1 in 6 people over 60. 1 in 4 need mobility help. Are we ready?"
+   
+2. **What is RAMMP?** - Fast explainer of the program
+   - $41M investment, open-source robotics, independence for millions
+   
+3. **The Independence Gap** - Show daily tasks that require caregiver assistance
+   - Emotional hook: what independence means
+   
+4. **ROI for America** - Economic case (reduced caregiver costs, workforce participation)
+   
+5. **Technology Showcase** - Quick demo of AI navigation, manipulation capabilities
+
+MEDIUM VIDEOS (2-3 minutes):
+----------------------------
+6. **The Human Story** - Profile of someone who needs mobility assistance
+   - Their daily challenges, how RAMMP could transform their life
+   
+7. **The Science Behind RAMMP** - Explain the tech (AI, sensor fusion, digital twins)
+   - Make it accessible but impressive
+   
+8. **The Consortium** - Showcase the powerhouse team (Pitt, CMU, Cornell, etc.)
+   - Why this collaboration matters
+   
+9. **From Lab to Life** - ATDev's role in commercialization
+   - How research becomes real products people can use
+   
+10. **Open Source = Access** - Why making this open-source matters
+    - Democratizing advanced assistive technology
+
+LONGER VIDEOS (5-7 minutes):
+----------------------------
+11. **The Full Vision** - Comprehensive overview of RAMMP
+    - Problem → Solution → Impact → Timeline
+    
+12. **Expert Panel** - Interviews with Dr. Rory Cooper, ATDev leadership, users
+    - Multi-perspective case for investment
+    
+13. **Day in the Life: Before & After** - Contrast current limitations vs. RAMMP future
+    - Emotional + practical case
+    
+14. **National Security of Health** - Frame as infrastructure investment
+    - Aging population, healthcare costs, American innovation leadership
+
+SPECIAL PURPOSE VIDEOS:
+-----------------------
+15. **Elevator Pitch** (15 seconds) - For social media, quick shares
+    
+16. **Testimonial Series** - Short clips from potential users, caregivers, researchers
+    
+17. **B-roll Package** - Lab footage, wheelchair demos, AI visualization
+    - For media/press use
+    
+18. **Congressional Hearing Opener** (2 min) - Designed to open testimony
+    - Powerful, factual, emotional hook
+
+KEY MESSAGING THEMES:
+--------------------
+- Independence = Dignity
+- Innovation = American Leadership
+- Investment = Returns (economic + social)
+- Open Source = Accessibility at Scale
+- Urgency = Demographic Reality
+- Collaboration = World-Class Consortium
+- Proven Track Record = HERL's decades of research
+
+TARGET AUDIENCES:
+----------------
+- Congressional committees (health, aging, innovation, appropriations)
+- ARPA-H leadership and reviewers
+- NIH and other federal health agencies
+- State legislators and governors
+- Private foundations (disability rights, aging, health innovation)
+- Healthcare systems and insurers
+- Disability advocacy organizations
+
+PRODUCTION NOTES:
+----------------
+- Mix emotional storytelling with hard data
+- Show real people, real challenges, real solutions
+- Use high-quality visuals of technology (not just talking heads)
+- Keep technical explanations accessible
+- Always tie back to human impact
+- Include clear calls to action (funding, support, partnership)
