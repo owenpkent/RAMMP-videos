@@ -1,68 +1,40 @@
-# RAMMP Videos - Robotic Assistive Mobility and Manipulation Platform
+# RAMMP Videos
 
-## Overview
+## Purpose
 
-This repository documents the **Robotic Assistive Mobility and Manipulation Platform (RAMMP)** initiative—a $41 million ARPA-H funded program led by the University of Pittsburgh to create the next generation of open-source robotic assistive mobility and manipulation technologies.
+This repository contains video production planning, brainstorming, and assets for the **Robotic Assistive Mobility and Manipulation Platform (RAMMP)** initiative. The goal is to create compelling video content that communicates the importance of robotic assistive mobility to Congress, federal funders, and other stakeholders.
 
-## The Mission
+## Repository Structure
 
-RAMMP aims to empower people with disabilities to live more independently by combining:
-- Advanced robotics
-- Artificial intelligence
-- Digital twin simulation
+- **README.md** — High-level overview and repository structure (this file)
+- **BACKGROUND.md** — Detailed background on the RAMMP initiative, key players, and vision
+- **BRAINSTORM.md** — Video concepts, production ideas, messaging themes, and evaluation metrics
+  - 18 video concepts (short, medium, long, and special purpose)
+  - Day-in-the-life documentary concepts
+  - Coffee task demo specifications
+  - Key metrics for success evaluation
+  - Target audiences and production guidelines
 
-The program is designed to enable greater autonomy and reduce reliance on caregivers, helping users perform daily tasks safely and independently.
+## Quick Links
 
-## Key Players
+- [Background Information](./BACKGROUND.md) — Learn about RAMMP, the consortium, and the initiative
+- [Video Brainstorm & Planning](./BRAINSTORM.md) — Video concepts and production strategy
+- [ATDev Website](https://assistivetech.dev)
+- [ARPA-H Initiative](https://www.prnewswire.com/news-releases/atdev-joins-41-million-arpa-h-initiative-to-build-the-future-of-robotic-mobility-and-independence-302606603.html)
 
-**Lead Institution:** University of Pittsburgh  
-**Principal Investigator:** Rory Cooper, Ph.D.
+## Key Objectives
 
-**Primary Contractor:** Assistive Technology Development, Inc. (ATDev)
-- Founded in 2020, spun out of UC Berkeley
-- Mission: Independent mobility for all
+- Demonstrate why robotic assistive mobility is critical (aging population, independence, dignity)
+- Showcase RAMMP's innovative approach and world-class consortium
+- Communicate the economic and social ROI of the investment
+- Tell compelling human stories that resonate with policymakers and funders
+- Highlight the path from research to real-world impact
 
-**Consortium Partners:**
-- Carnegie Mellon University
-- Cornell University
-- Northeastern University
-- Purdue University
-- Kinova Robotics
-- LUCI Mobility
+## Video Categories
 
-## ATDev's Role
+**Short-form (30-60 sec):** Quick stats, explainers, economic case  
+**Medium-form (2-3 min):** Human stories, technical explanations, team showcase  
+**Long-form (5-7 min):** Comprehensive vision, expert panels, before/after comparisons  
+**Special-purpose:** Elevator pitches, testimonials, B-roll, congressional testimony
 
-ATDev is leading critical components of the RAMMP initiative:
-
-- **Operating System & Simulation Platform:** Developing a new OS and simulation platform optimized for assistive technology
-- **Hardware Assets:** Creating key platform technologies for next-generation medical robotics
-- **System Integration:** Integrating adaptive AI controls, advanced sensor fusion, and assistive user interfaces
-- **Focus Areas:** Semi-autonomous navigation and manipulation for daily task support
-
-### Leadership
-
-- **Todd Roberts** - CEO and Co-Founder
-- **Owen Kent** - Chief Marketing Officer and Co-Founder
-- **William Emfinger, Ph.D.** - Principal Investigator and Chief Technology Officer (formerly CTO at Max Mobility, Director of R&D at Permobil)
-
-## The Vision
-
-Building the next generation of robotic wheelchairs that:
-- Support semi-autonomous navigation and manipulation
-- Integrate cutting-edge AI and robotics research
-- Prioritize accessibility and human-centered design
-- Enable people with disabilities to move freely and live with dignity
-
-## Research Foundation
-
-RAMMP builds on decades of groundbreaking research at the University of Pittsburgh's **Human Engineering Research Laboratories (HERL)**, one of the world's leading centers for rehabilitation and assistive robotics.
-
-## Funding
-
-This research is funded by the Advanced Research Projects Agency for Health (ARPA-H), a division of the U.S. Department of Health and Human Services.
-
----
-
-**Learn more:** [assistivetech.dev](https://assistivetech.dev)
-
-**Source:** [PR Newswire - ATDev Joins $41 Million ARPA-H Initiative](https://www.prnewswire.com/news-releases/atdev-joins-41-million-arpa-h-initiative-to-build-the-future-of-robotic-mobility-and-independence-302606603.html)
+See [BRAINSTORM.md](./BRAINSTORM.md) for full details on all 18 video concepts.
